@@ -1,1 +1,1 @@
-Plain JDBC Java application using JDBC Api, Statement, PreparedStatement, ResultSet objects
+Plain JDBC Java application using JDBC Api, Statement, PreparedStatement, ResultSet objects, Postgres
